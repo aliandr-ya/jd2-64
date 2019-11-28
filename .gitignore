@@ -1,0 +1,17 @@
+## Ignore the build folder
+target/
+
+## Ignore any artifacts
+*.jar
+*.ear
+*.war
+
+## Eclipse project files
+.settings/
+.classpath
+.project
+
+## IntelliJ project files
+*.iml
+.idea
+
